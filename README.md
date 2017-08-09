@@ -65,7 +65,7 @@ $ jupyter notebook titanic_survival_exploration.ipynb
 这个项目的数据包含在 `titanic_data.csv` 文件中。文件包含下列特征：
 ​
 - **Survived**：是否存活（0代表否，1代表是）
-- **Pclass**：社会阶级（1代表上层阶级，2代表中层阶级，3代表底层阶级）
+- **Pclass**：舱位等级（1代表1等舱，2代表2等舱，3代表3等舱）
 - **Name**：船上乘客的名字
 - **Sex**：船上乘客的性别
 - **Age**：船上乘客的年龄（可能存在 `NaN`）
